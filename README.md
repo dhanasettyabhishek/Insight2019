@@ -39,9 +39,8 @@ From the given input dataset, I am calculating the number of product requested a
 	> {16: [1, 1], 4: [1, 1], 13: [0, 1], 12: [1], 3: [1, 0]}
 
 3. Finally, I am storing the values such as department_id,number_of_orders,number_of_first_orders,percentage in report.csv.
-	> Sample output:
-		
-		![output](./insight_testsuite/images/1.png)
+	
+	![Outpur](./insight_testsuite/images/1.png)
 		
 
 ### Testing
